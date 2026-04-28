@@ -20,10 +20,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 My name is <span class="accent-text">Hao Shan</span> (镡昊). I am an undergraduate student at <i class="fas fa-university"></i> **Beihang University** - **Beijing University of Technology** (Dual Degree Program), majoring in Computer Science and Technology. I am currently a research intern at <i class="fas fa-car"></i> **Xiaomi**, working on autonomous driving algorithm R&D.
-My research focuses on <span class="primary-gradient-text">online HD map construction</span>, and <span class="primary-gradient-text">end-to-end autonomous driving</span>. I have published/accepted papers at top venues including <span class="accent-text">ICLR</span>, <span class="accent-text">CVPR</span>, <span class="accent-text">IV</span>, and <span class="accent-text">IEEE TITS/TMM</span>, and hold 3 authorized/applied national invention patents.
+My research focuses on <span class="primary-gradient-text">autonomous driving perception</span>, and <span class="primary-gradient-text">end-to-end autonomous driving</span>. I have published/accepted papers at top venues including <span class="accent-text">ICLR</span>, <span class="accent-text">CVPR</span>, <span class="accent-text">IV</span>, and <span class="accent-text">IEEE TITS/TMM</span>, and hold 3 authorized/applied national invention patents.
 
 <div class="quote-accent">
-My research focuses on <span class="primary-gradient-text">autonomous driving perception and map construction</span>, with particular interest in efficient online HD mapping and 3D scene understanding.
+My research focuses on <span class="primary-gradient-text">autonomous driving perception and end-to-end autonomous driving</span>, with particular interest in multi-modal perception, 3D scene understanding, and planning-oriented driving systems.
 </div>
 
 Feel free to reach out if you'd like to discuss research or explore potential collaboration!
@@ -32,7 +32,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-car"></i> Autonomous Driving Researcher</h3>
     <ul>
-      <li>Research on <span class="accent-text">HD map construction</span> & <span class="accent-text">3D occupancy</span></li>
+      <li>Research on <span class="accent-text">autonomous driving perception</span> & <span class="accent-text">end-to-end driving</span></li>
       <li>Publications at <span class="primary-gradient-text">ICLR</span>, <span class="primary-gradient-text">CVPR</span>, <span class="primary-gradient-text">IV</span></li>
       <li>Intern at <span class="accent-text">Xiaomi</span> Autonomous Driving</li>
     </ul>
