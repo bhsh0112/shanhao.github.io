@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "publications"
-    url: "/#-publications"
+    url: "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AIqSsVutwAoBUb6GaBJ8_OEju2pueSKGqG3ztaYe3-UH0BLJgZC0zsmnaKrA7LHdSu9CrYhYRRTC17wXLm6x5GNyWMM&user=t_REKsgAAAAJ"
 
   - title: "educations"
     url: "/#-educations"
