@@ -107,7 +107,8 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - 任毅龙, 镡昊, 李睿楷, 等. 基于多车协同机制的鲁棒性语义矢量地图构建方法及系统. 受理发明专利
 
 # <i class="fas fa-graduation-cap"></i> Educations
-- *2022.09 - Present*: &nbsp;Bachelor of Engineering in Computer Science and Technology, <span class="primary-gradient-text">Beihang University - Beijing University of Technology (Dual Degree Program)</span>. Rank: 2/122, GPA: 88.92
+- *2026.06 - Present*: &nbsp;Master's Student, <span class="primary-gradient-text">School of Transportation Science and Engineering, Beihang University</span>. Advisor: Yilong Ren
+- *2022.09 - 2026.07*: &nbsp;Bachelor of Engineering in Computer Science and Technology, <span class="primary-gradient-text">Beihang University - Beijing University of Technology (Dual Degree Program)</span>. Rank: 2/122, GPA: 88.92
 
 # <i class="fas fa-laptop-code"></i> Internships
 - *2025.12 - Present*: &nbsp;Autonomous Driving Algorithm R&D Intern, <a href="https://www.mi.com/" class="link-accent">Xiaomi</a>, **Xiaomi Technology**. Working on end-to-end autonomous driving: MoE for multi-modal planning acceleration, Speculative Decoding for AR planning algorithms.
